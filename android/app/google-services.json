@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272633119424",
+    "project_id": "lauquang-doan",
+    "storage_bucket": "lauquang-doan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272633119424:android:64e2e24b26b1f23896a325",
+        "android_client_info": {
+          "package_name": "com.example.lauquang_doan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR20H4hvL9fkVNsntWrQHKVEO6jZIyI4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
